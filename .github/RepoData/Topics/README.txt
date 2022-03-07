@@ -1,0 +1,12 @@
+markdown
+wiki
+gplv3
+archive
+md
+txt
+snu
+gpl3
+2020
+snu-development
+wiki-archive
+snu-archive
